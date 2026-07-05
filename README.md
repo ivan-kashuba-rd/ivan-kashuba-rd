@@ -12,6 +12,8 @@ Materials & Polymer R&D professional with hands-on experience in powder coatings
 ## Selected project
 - [Reactor Dissolution Calculation](https://github.com/ivan-kashuba-rd/reactor-dissolution-calculation)  
   Parameter-driven Python model for evaluating salt dissolution in a stirred reactor using engineering correlations and scenario-based calculations.
+- [Pneumatic Dryer Performance Calculator](https://github.com/ivan-kashuba-rd/pneumatic-dryer-performance-calculator)  
+  Parameter-driven Python model for evaluating pneumatic tubular drying performance across a gas-velocity range.
 
 ## Background
 My work combines practical laboratory and production experience with structured analysis of experimental data, quality deviations and process conditions.
