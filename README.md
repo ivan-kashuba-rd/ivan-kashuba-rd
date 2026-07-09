@@ -16,6 +16,8 @@ Materials & Polymer R&D professional with hands-on experience in powder coatings
   Parameter-driven Python model for evaluating pneumatic tubular drying performance across a gas-velocity range.
 - [Stirred-Vessel Heating Comparator](https://github.com/ivan-kashuba-rd/stirred-vessel-heating-comparator)  
   Parameter-driven Python model comparing theoretical heat-transfer performance for paddle, anchor and propeller impellers in a jacketed stirred vessel.
+- [Tube-in-Tube Heat Exchanger Scaling Model](https://github.com/ivan-kashuba-rd/tube-in-tube-heat-exchanger-scaling)  
+  Python model converting an Excel-based tube-in-tube milk-heating calculation into a reproducible workflow with coursework validation, criteria-based flow screening and improved heat-transfer assumptions.
 
 ## Background
 My work combines practical laboratory and production experience with structured analysis of experimental data, quality deviations and process conditions.
