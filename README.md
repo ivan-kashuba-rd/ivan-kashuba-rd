@@ -10,6 +10,8 @@ Materials & Polymer R&D professional with hands-on experience in powder coatings
 - Introductory computational chemistry and bioinformatics coursework
 
 ## Selected project
+- [AI Laboratory Document Automation](https://github.com/ivan-kashuba-rd/ai-lab-document-automation)  
+  UiPath and FastAPI automation for laboratory document analysis, specification validation and human-review routing. Demonstrates tested `PASS`, `REVIEW` and `FAIL` workflows with C# Coded Workflows, REST/JSON, SQLite and automated tests.
 - [Reactor Dissolution Calculation](https://github.com/ivan-kashuba-rd/reactor-dissolution-calculation)  
   Parameter-driven Python model for evaluating salt dissolution in a stirred reactor using engineering correlations and scenario-based calculations.
 - [Pneumatic Dryer Performance Calculator](https://github.com/ivan-kashuba-rd/pneumatic-dryer-performance-calculator)  
