@@ -32,7 +32,7 @@ The calculation projects are educational and theoretical models, not substitutes
 - Glycolide monomer manufacturing for bioresorbable polymers, Medin-N (2021–2024): thermal-vacuum synthesis, filtration, ¹H NMR.
 - Optical interference coatings on polymer lenses, ODV (2021).
 - Fiber Technology & Photonics Laboratory, Ural Federal University (2013–2021): silver-halide infrared light guides, hot extrusion, a neonatal phototherapy lamp taken to a first production batch.
-- Co-author of 7 publications on mid-infrared fiber optics and silver-halide materials.
+- Co-author of six published works on mid-infrared fiber optics and silver-halide materials, four of them peer-reviewed; 18 citations in total, 14 of them on the lead paper.
 
 ## Open to
 Remote contract work and roles in materials and process R&D, failure analysis and scientific computing, during EU business hours.
