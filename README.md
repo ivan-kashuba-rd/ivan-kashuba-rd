@@ -10,6 +10,7 @@
 - **Root-cause and failure analysis** — out-of-spec batches, coating defects and monomer degradation, traced by reading instrument data against process parameters and material condition.
 - **Process development** — formulation comparisons, thermal and vacuum processing, filtration, drying, hot extrusion, optical coatings and process documentation.
 - **Scientific computing** — engineering calculations rebuilt as reproducible Python with validation checks; daily work with AI coding agents (Claude Code, Codex), verified against tests.
+- **Medical devices and materials** — four independent lines: a flexible phototherapy lamp for newborns that went into clinical use; glycolide manufacturing for PGA and PLGA bioresorbables used in sutures, fixation devices and drug delivery; silver-halide fibres for laser-surgery angioplasty; optical coatings on ophthalmic lenses. Currently working through ISO 10993 biological evaluation, where the chemical characterisation of device materials is the part closest to this work.
 
 ## Selected projects
 - [AI Laboratory Document Automation](https://github.com/ivan-kashuba-rd/ai-lab-document-automation)  
@@ -35,4 +36,4 @@ The calculation projects are educational and theoretical models, not substitutes
 - Co-author of six published works on mid-infrared fiber optics and silver-halide materials, four of them peer-reviewed; 18 citations in total, 14 of them on the lead paper.
 
 ## Open to
-Remote contract work and roles in materials and process R&D, failure analysis and scientific computing, during EU business hours.
+Remote contract work and roles in materials and process R&D, failure analysis, medical device materials and biological evaluation, and scientific computing, during EU business hours.
